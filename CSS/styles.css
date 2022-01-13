@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Yatra One", cursive;
+  background-color: #1e1e1e;
+}
+
+h1 {
+  font-size: 6rem;
+  color: #1e1e1e;
+  margin: auto auto auto auto;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  color: whitesmoke;
+   font-size: 50px;
+  font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+  color: #11999E;
+}
+
+p {
+  font-size: 25px;
+  color: aliceblue;
+  line-height: 40px;   
+  font-family: 'Indie Flower', cursive;
+}
+
+.slidein{
+  display: none;
+}
+
+.text-description {
+  color: #1e1e1e;
+}
+
+/* Intro section */
+.left-code {
+  width: 70%;
+  margin-top: 30rem;
+}
+
+.right-code {
+  width: 70%;
+}
+
+.top-container {
+  width: 100%;
+  background-color: #EAF6F6;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 8%;
+  padding-bottom: 8%;
+}
+
+
+
+/* About section */
+.self-description-row {
+  line-height: 40px;   /* within paragraph */
+  width:60%;
+  margin: 4% auto  4% auto;
+  text-align: left;
+}
+
+.horizontal-dots {
+  border-top: .2rem dotted #EAF6F6;
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+  width: 60%;
+  margin: 4% auto 4% auto;
+}
+
+.profile{
+  padding-top: 2rem;
+}
+
+/* .profile h2 {
+  font-size: 6rem;
+}
+
+.profile p {
+  font-size: 1.9rem;
+} */
+
+/* skill section */
+.skill-row {
+  margin: 4% auto  4% auto;
+  text-align: left;
+}
+
+.img-left {
+  width: 90%;
+  float:right;
+}
+
+.img-right {
+  width: 90%;
+  float:left;
+}
+
+.lang-description span {
+  color: #b0eff1;
+  font-weight: bold;
+}
+
+/* Contact section */
+#contact {
+  width: 100%;
+}
+.contact-img{
+  margin: 2%;
+  width: 3rem;
+  height: 3rem;
+}
+
+.contact-me-paragraph{
+  margin: auto auto 30px auto;
+  width: 50%;
+  text-align: center;
+}
+
+.contact-img-extras {
+  margin: 1%;
+  width: 3rem;
+  height: 3rem;
+}
+
+.bottom-container {
+  background-color: #b0ffff94;
+  position: absolute;
+  width: 100%;
+}
+
+
+
+/* Footer/copyright section */
+.copyrightText{
+  padding: 2%;
+  color:black;
+  font-family: 'Padauk', sans-serif;
+}
+
