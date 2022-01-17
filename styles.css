@@ -27,6 +27,21 @@ p {
   color: aliceblue;
   line-height: 40px;   
   font-family: 'Indie Flower', cursive;
+
+}
+
+/* ul {
+  text-align: left;
+} */
+
+li {
+  text-align: left;
+}
+
+/* Education section */
+.edu {
+  width:60%;
+  margin: 4% auto  4% auto;
 }
 
 .slidein{
